@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c457ca39.css",
+    "main.js": "/static/js/main.63290a06.js",
+    "static/js/787.633816a4.chunk.js": "/static/js/787.633816a4.chunk.js",
+    "static/media/thrulatenight.mp3": "/static/media/thrulatenight.4eed7293b1d81f2cdfa4.mp3",
+    "static/media/escapeplan.mp3": "/static/media/escapeplan.a8bd4fd0a4d2ea216dcc.mp3",
+    "static/media/october.mp3": "/static/media/october.b72494dfa5cb99c14e31.mp3",
+    "index.html": "/index.html",
+    "main.c457ca39.css.map": "/static/css/main.c457ca39.css.map",
+    "main.63290a06.js.map": "/static/js/main.63290a06.js.map",
+    "787.633816a4.chunk.js.map": "/static/js/787.633816a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c457ca39.css",
+    "static/js/main.63290a06.js"
+  ]
+}
