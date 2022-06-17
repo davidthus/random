@@ -13,6 +13,13 @@ import fallingdown from "./fallingdown.mp3";
 import abovetheclouds from "./abovetheclouds.mp3"
 import booksofwar from "./booksofwar.mp3";
 import tonka2 from "./tonka2.mp3"
+import astrothunder from "./astrothunder.mp3";
+import skeletons from "./skeletons.mp3";
+import waves from "./waves.mp3";
+import headhoncho from "./headhoncho.mp3";
+import waster from "./waster.mp3";
+import wayback from "./wayback.mp3";
+
 
 const songlist = [
   {
@@ -40,6 +47,10 @@ const songlist = [
     src: microphonemaster
   },
   {
+    title: "Astrothunder",
+    src: astrothunder
+  },
+  {
     title: "Sick",
     src: sick
   },
@@ -52,12 +63,32 @@ const songlist = [
     src: sleepyhallow
   },
   {
+    title: "Skeletons",
+    src: skeletons
+  },
+  {
     title: "Strong",
     src: strong
   },
   {
     title: "The Bigger Picture",
     src: thebiggerpicture
+  },
+  {
+    title: "Waves",
+    src: waves
+  },
+  {
+    title: "way back",
+    src: wayback
+  },
+  {
+    title: "Waster",
+    src: waster
+  },
+  {
+    title: "Head Honcho",
+    src: headhoncho
   },
   {
     title: "Tell em",
