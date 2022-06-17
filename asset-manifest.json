@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/random/static/css/main.ab474c96.css",
-    "main.js": "/random/static/js/main.1aa1dc9c.js",
+    "main.js": "/random/static/js/main.53fcc7d9.js",
     "static/js/787.633816a4.chunk.js": "/random/static/js/787.633816a4.chunk.js",
     "static/media/thrulatenight.mp3": "/random/static/media/thrulatenight.4eed7293b1d81f2cdfa4.mp3",
     "static/media/flowers.mp3": "/random/static/media/flowers.71cb36584a0eafde47ba.mp3",
@@ -16,6 +16,7 @@
     "static/media/strong.mp3": "/random/static/media/strong.eaff8da2f51cb7ec9de4.mp3",
     "static/media/headhoncho.mp3": "/random/static/media/headhoncho.c8d728801342b5eeb757.mp3",
     "static/media/microphonemaster.mp3": "/random/static/media/microphonemaster.e9b3e62eb83368b0f366.mp3",
+    "static/media/astrothunder.mp3": "/random/static/media/astrothunder.6ab6be87de3004133fca.mp3",
     "static/media/tellem.mp3": "/random/static/media/tellem.ee263b12d8b1184de08a.mp3",
     "static/media/waster.mp3": "/random/static/media/waster.a34c2c8021290da5b494.mp3",
     "static/media/sleepyhallow.mp3": "/random/static/media/sleepyhallow.4beaec1aa8de42cb361e.mp3",
@@ -23,14 +24,13 @@
     "static/media/october.mp3": "/random/static/media/october.b72494dfa5cb99c14e31.mp3",
     "static/media/sick.mp3": "/random/static/media/sick.211fb3bff3e379792a5e.mp3",
     "static/media/kairosdrumming.mp3": "/random/static/media/kairosdrumming.383f36c17f980531973d.mp3",
-    "static/media/astrothunder.mp3": "/random/static/media/astrothunder.2be3a5668000e3a4b655.mp3",
     "index.html": "/random/index.html",
     "main.ab474c96.css.map": "/random/static/css/main.ab474c96.css.map",
-    "main.1aa1dc9c.js.map": "/random/static/js/main.1aa1dc9c.js.map",
+    "main.53fcc7d9.js.map": "/random/static/js/main.53fcc7d9.js.map",
     "787.633816a4.chunk.js.map": "/random/static/js/787.633816a4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ab474c96.css",
-    "static/js/main.1aa1dc9c.js"
+    "static/js/main.53fcc7d9.js"
   ]
 }
